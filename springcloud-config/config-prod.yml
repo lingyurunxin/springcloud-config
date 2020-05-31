@@ -1,1 +1,2 @@
-prod
+config:
+  info: 这个是config-prod

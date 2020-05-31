@@ -1,1 +1,2 @@
-out dev
+config:
+  info: 这个是config-dev
